@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4.3.2Huffman\Huffman.cpp">
+    <ClCompile Include="4.TreeAndBinaryTree\Huffman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.TreeAndBinaryTree\Heap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
